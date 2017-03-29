@@ -6,7 +6,7 @@
 **/
 global with sharing class ExampleAccountWrapperMVN extends RestResponseMVN {
     /**
-    * @description 
+    * @description test
     */
     @TestVisible private static Integer BIG_PLAYER_LINE = 100000;
 
